@@ -1,0 +1,6 @@
+Tooltip_FR = {
+ Tooltip_BookTitle_Sprinting = "Sprint",
+ Tooltip_BookTitle_Lightfooted = "Pied léger",
+ Tooltip_BookTitle_Nimble = "Agile",
+ Tooltip_BookTitle_Sneaking = "Se faufiler",
+}
